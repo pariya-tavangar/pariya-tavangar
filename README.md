@@ -1,8 +1,10 @@
-# Pariya Tavangar
+# Pariya Tavangar 
 
 **`Software Developer (Data Analysis/Back-end)`**
 
 I'm an software developer who likes to immerse herself into logical functions and solve problem 24/7. I'm currently educating and accepting remote job offers. My main passion is based on back-end and analysing data projects.
+
+<img alt="gif" width="200px" align = "center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZngybXc1NGxraTV6MGRuc3F6NTd5aDdhNW4wdmM0Z2lvN3dmYWVqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" >
 
 Want to know more about me? Check out the portfoilo link below :)
 <br/>
