@@ -10,6 +10,7 @@ Want to know more about me? Check out the portfoilo link below :)
 <br/>
 https://www.pariya-tavangar.ir
 ---
+<br/>
 
 ### 🧰 Languages and Tools
 
@@ -21,9 +22,7 @@ https://www.pariya-tavangar.ir
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
-
+<br/><br/>
 
 ### 📊 Stats
 
