@@ -1,6 +1,7 @@
 # Howdy! Welcome to My Humble Domain!
 
 **`Pariya Tavangar | Software Developer (Data Analysis/Back-end)`**
+<br/>
 
 I'm an software developer who likes to immerse herself into logical functions and solve problem 24/7. I'm currently educating and accepting remote job offers. My main passion is based on back-end and analysing data projects.
 
