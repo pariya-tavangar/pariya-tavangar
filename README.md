@@ -36,7 +36,6 @@ I'm an software developer who likes to immerse herself into logical functions an
   
   ![JojoGeek's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pariya-tavangar&theme=react&hide_border=true)
 <br/><br/>
-  ![Jojogeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pariya-tavangar&show_icons=true&theme=react) 
 </div>
 <br/>
 
