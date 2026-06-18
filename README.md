@@ -9,7 +9,33 @@ I'm an software developer who likes to immerse herself into logical functions an
 
 <br/>
 
-Currently working on Pixel Adventure Game
+### 📑 What I'm Working On
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+  
+### 🛠️ Current Mission
+**Pixel Adventure Game**   
+A 2D platformer project for learning the basics of game development using Unity.
+ 
+[![Repo](https://img.shields.io/badge/View-Pixel%20Adventure%20Game-9b59b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pariya-tavangar/Pixel-Adventure-Game)
+ 
+</td>
+<td width="50%" valign="top">
+  
+### 📚 Currently Learning
+**Unity Engine**   
+Diving into game development fundamentals for my first 2D game.
+ 
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+ 
+</td>
+</tr>
+</table>
+ 
+<br/>
+
 
 ### 🧰 Languages
 
@@ -39,6 +65,6 @@ Currently working on Pixel Adventure Game
   ![JojoGeek's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pariya-tavangar&theme=react&hide_border=true)
 <br/><br/>
 </div>
-<br/>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,3,5&height=100&section=footer" />
+</div>
