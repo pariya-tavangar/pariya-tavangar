@@ -9,6 +9,8 @@ I'm an software developer who likes to immerse herself into logical functions an
 
 <br/>
 
+Currently working on Pixel Adventure Game
+
 ### 🧰 Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
